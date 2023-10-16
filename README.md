@@ -21,7 +21,7 @@ This allows you to use the extension on your local machine without me having to 
 
 ## Usage
 
-To remove YouTube's Ad Paper Dialog, simply have the extension active.
+To remove YouTube's Ad Paper Dialog, simply have the extension active ([download it here](https://github.com/Vianpyro/youtube_ad_paper_remover/releases/latest)).
 
 ## Contributing
 
